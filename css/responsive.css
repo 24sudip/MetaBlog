@@ -1,0 +1,136 @@
+@media (max-width: 575.98px) {
+    .navbar-nav {
+	    text-align: center;
+    }
+    .menu {
+        text-align: center;
+    }
+    .banner_item {
+        display: none;
+    }
+    .menu #my_search {
+        right: 34%;
+    }
+    .switch_bg {
+        margin-left: 44%;
+        margin-top: 10px;
+    }
+    #banner {
+        margin-bottom: 60px;
+    }
+    .footer_left {
+        text-align: center;
+    }
+    .footer_left p {
+        width: auto;
+    }
+    .banner_two_item {
+        width: auto;
+    }
+    .author_inner {
+        width: auto;
+    }
+    .author_up {
+        transform: translateX(29%);
+    }
+    html {
+        overflow-x: hidden;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .banner_two_item {
+        width: auto;
+    }
+    html {
+        overflow-x: hidden;
+    }
+    .banner_item {
+        display: none;
+    }
+    #banner {
+        margin-bottom: 60px;
+    }
+    .footer_left {
+        text-align: center;
+    }
+    .footer_left p {
+        width: auto;
+    }
+    .navbar-nav {
+	    text-align: center;
+    }
+    .menu {
+        text-align: center;
+    }
+    .menu #my_search {
+        right: 36%;
+    }
+    .switch_bg {
+        margin-left: 45%;
+        margin-top: 10px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .banner_two_item {
+        width: auto;
+    }
+    html {
+        overflow-x: hidden;
+    }
+    .navbar-nav {
+	    text-align: center;
+    }
+    .menu {
+        text-align: center;
+    }
+    .menu #my_search {
+        right: 40%;
+    }
+    .switch_bg {
+        margin-left: 47%;
+        margin-top: 10px;
+    }
+    .banner_item_author .author_name {
+        padding-left: 0;
+    }
+    .latest_main {
+        padding: 7px;
+    }
+    .latest_main.extra {
+        display: none;
+    }
+    .footer_icon_right .ftr_spn {
+        padding-left: 3px;
+    }
+    .footer_icon_right {
+        text-align: start;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .latest_main.extra {
+        display: none;
+    }
+    html {
+        overflow-x: hidden;
+    }
+    .banner_two_item {
+        width: auto;
+    }
+    #footer {
+        margin-top: 20px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .latest_main {
+        padding: 5px;
+    }
+    html {
+        overflow-x: hidden;
+    }
+    .banner_two_item {
+        width: auto;
+    }
+}
+@media (min-width: 1400px) {
+
+}

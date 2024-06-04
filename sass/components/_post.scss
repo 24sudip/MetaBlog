@@ -1,0 +1,31 @@
+#post {
+    padding-top: 32px;
+    .banner_two_item {
+        margin-left: 0;
+        h1 {
+            color: var(--color-primary);
+        }
+        .author_name {
+            color: #696A75;
+        }
+    }
+}
+.post_text {
+    h3 {
+        font-weight: 600;
+        color: var(--color-primary);
+    }
+    p {
+        color: var(--color-primary);
+    }
+    .post_saying {
+        padding: 32px;
+        background-color: var(--color-secondary-a);
+        border-radius: 12px;
+        color: var(--color-primary);
+        p {
+            font-style: italic;
+            margin: 0;
+        }
+    }
+}

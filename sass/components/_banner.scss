@@ -1,0 +1,40 @@
+#banner {
+    margin-bottom: 144px;
+}
+.banner_main {
+    position: relative;
+    border-radius: 12px;
+}
+.banner_item {
+    position: absolute;
+    bottom: -64px;
+    left: 64px;
+    width: 598px;
+    padding: 40px;
+    background-color: var(--color-secondary);
+    border-radius: 12px;
+    box-shadow: 1px 9px 9px 2px rgba(160,150,150,0.74);
+    -webkit-box-shadow: 1px 9px 9px 2px rgba(160,150,150,0.74);
+    -moz-box-shadow: 1px 9px 9px 2px rgba(160,150,150,0.74);
+    h1 {
+        color: var(--color-primary);
+    }
+    a {
+        background-color: #4B6BFB;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 5px;
+        font-size: 14px;
+        font-weight: 500;
+    }
+}
+.banner_item_author {
+    img {
+        width: 36px;
+    }
+    .author_name {
+        color: #97989F;
+        font-weight: 500;
+        padding-left: 12px;
+    }
+}

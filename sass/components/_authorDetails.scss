@@ -1,0 +1,32 @@
+.author_details_main {
+    background-color: var(--color-secondary-a);
+    padding: 48px 0;
+    border-radius: 12px;
+}
+.author_inner {
+    width: 668px;
+    margin: 0 auto;
+    text-align: center;
+}
+.author_up {
+    display: flex;
+    align-items: center;
+    transform: translateX(37%);
+    h5 {
+        font-weight: 500;
+        color: var(--color-primary);
+    }
+}
+.author_icon {
+    i {
+        height: 32px;
+        width: 32px;
+        line-height: 32px;
+        text-align: center;
+        color: #fff;
+        background-color: #696A75;
+        margin: 0 4px;
+        display: inline-block;
+        border-radius: 6px;
+    }
+}
